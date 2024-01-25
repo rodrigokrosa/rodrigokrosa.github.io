@@ -1,6 +1,6 @@
 baseURL: https://kobarion.github.io/
 languageCode: en-us
-title: Kobarion
+title: Rodrigo Kobashikawa
 theme: hugo-book
 enableEmoji: true
 
@@ -15,6 +15,19 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 1
+
+defaultContentLanguage: pt
+languages:
+  en:
+    languageName: English
+    contentDir: content/en/
+    languageCode: en-US
+    weight: 10
+  pt:
+    languageName: Brazillian Portuguese
+    contentDir: content/pt/
+    languageCode: pt-BR
+    weight: 20
 
 menu:
   # before: []
@@ -33,10 +46,14 @@ menu:
       weight: 4
 
 params:
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme: light
+
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  # BookToC: true
+  BookToC: true
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
@@ -62,7 +79,7 @@ params:
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  # BookDateFormat: "Jan 2, 2006"
+  BookDateFormat: "January 2, 2006"
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.

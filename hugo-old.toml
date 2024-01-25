@@ -1,5 +1,0 @@
-baseURL = 'https://kobarion.github.io/'
-languageCode = 'en-us'
-title = 'Kobarion'
-theme = 'hugo-book'
-enableEmoji = true
