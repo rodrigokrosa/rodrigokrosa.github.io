@@ -1,4 +1,4 @@
-baseURL: https://kobarion.github.io/
+baseURL: https://rodrigokrosa.github.io/
 languageCode: en-us
 title: Rodrigo Kobashikawa
 theme: hugo-book
@@ -33,7 +33,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/kobarion"
+      url: "https://github.com/rodrigokrosa"
       weight: 1
     - name: "Google Scholar"
       url: "https://scholar.google.com/citations?hl=pt-BR&user=52E12-MAAAAJ"
@@ -69,7 +69,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/kobarion/kobarion.github.io
+  BookRepo: https://github.com/rodrigokrosa/rodrigokrosa.github.io
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
