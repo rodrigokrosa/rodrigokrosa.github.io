@@ -40,10 +40,13 @@ menu:
       weight: 2
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/rodrigo-kobashikawa-rosa/"
-      weight: 3 
+      weight: 3
+    - name: "Lattes"
+      url: "https://lattes.cnpq.br/8730687384964267"
+      weight: 4
     - name: "CV"
       url: "/cv-old.pdf"
-      weight: 4
+      weight: 5
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
