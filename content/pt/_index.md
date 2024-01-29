@@ -28,7 +28,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
   <img src="images/gama.jpeg" style="float: left; margin-right: 20px; width: 50px;">
   <figcaption>
     <b>Grupo de pesquisa em Aprendizado de Máquina e Aplicações (GAMA-UFSC)</b><br>
-    Pesquisador em Apredizagem de Máquina<br>
+    Pesquisador em Aprendizagem de Máquina<br>
     <ul>
         <li>Apliquei algoritmos de aprendizado de máquina para manutenção predição de máquinas usando dados de vibração;</li>
         <li>Trabalhei com modelos de redes convolucionais do estado da arte em um conjunto de dados público de falhas de rolamento;</li>
@@ -50,7 +50,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
     Engenheiro de Machine Learning<br>
     <ul>
         <li>Desenvolvi e fiz o deploy de modelos de previsão e classificação de falhas para sistemas de monitoramento de HVAC-R;</li>
-        <li>Treinei modelos de aprendizado de máquina para previsão de preço e demandda para o setor automotivo;</li>
+        <li>Treinei modelos de aprendizado de máquina para previsão de preço e demanda para o setor automotivo;</li>
         <li>Construí pipelines de dados e de modelos de aprendizado de máquina com Airflow;</li>
         <li>Monitoramento da performance dos modelos em produção;</li>
         <li>Limpeza e exploração dos dados.</li>
@@ -59,7 +59,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
 </figure>
 
 ---
-#### February/2020 - February/2021
+#### Fevereiro/2020 - Fevereiro/2021
 
 <figure>
   <img src="images/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
@@ -68,7 +68,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
     Estágio como Engenheiro de Machine Learning<br>
     <ul>
         <li>Desenvolvi e avaliei diversos modelos de aprendizado de máquina para prever trincas de corrosão por estresse (SCC) para a indústria de gás;</li>
-        <li>Desenvoli e coloquei em produção um modelo de detecção de anomalia para sistemas de monitoramento de sistemas HVAC-R;</li>
+        <li>Desenvolvi e coloquei em produção um modelo de detecção de anomalia para sistemas de monitoramento de sistemas HVAC-R;</li>
         <li>Limpeza e exploração dos dados e ajudei na criação de pipelines de ETL.</li>
     </ul>
   </figcaption>
