@@ -1,5 +1,4 @@
 baseURL: https://rodrigokrosa.github.io/
-languageCode: en-us
 title: Rodrigo Kobashikawa
 theme: hugo-book
 enableEmoji: true

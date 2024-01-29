@@ -6,7 +6,7 @@ BookToC: true
 
 # Sobre mim
 
-<img src="images/foto-perfil.jpg" style="width:250px; border-radius: 50%; float: right">
+<img src="imagens/foto-perfil.jpg" style="width:250px; border-radius: 50%; float: right">
 
 <p style="font-size: 22px">
     Cientista de dados /<br> 
@@ -25,7 +25,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
 #### Novembro/2021 - Fevereiro/2024
 
 <figure>
-  <img src="images/gama.jpeg" style="float: left; margin-right: 20px; width: 50px;">
+  <img src="imagens/gama.jpeg" style="float: left; margin-right: 20px; width: 50px;">
   <figcaption>
     <b>Grupo de pesquisa em Aprendizado de Máquina e Aplicações (GAMA-UFSC)</b><br>
     Pesquisador em Aprendizagem de Máquina<br>
@@ -44,7 +44,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
 #### Fevereiro/2021 - Outubro/2021
 
 <figure>
-  <img src="images/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
+  <img src="imagens/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
   <figcaption>
     <b>Aquarela Advanced Analytics</b><br>
     Engenheiro de Machine Learning<br>
@@ -62,7 +62,7 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
 #### Fevereiro/2020 - Fevereiro/2021
 
 <figure>
-  <img src="images/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
+  <img src="imagens/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
   <figcaption>
     <b>Aquarela Advanced Analytics</b><br>
     Estágio como Engenheiro de Machine Learning<br>
