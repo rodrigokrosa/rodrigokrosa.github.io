@@ -15,11 +15,11 @@ markup:
   tableOfContents:
     startLevel: 1
 
-defaultContentLanguage: pt
+defaultContentLanguage: pt-br
 languages:
-  pt:
+  pt-br:
     languageName: Brazillian Portuguese
-    contentDir: content/pt/
+    contentDir: content/pt-br/
     languageCode: pt-BR
     weight: 10
     menu:
@@ -39,7 +39,6 @@ languages:
         - name: "CV"
           url: "/cv-pt-br.pdf"
           weight: 5
-
   en:
     languageName: English
     contentDir: content/en/
