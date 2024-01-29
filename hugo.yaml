@@ -22,46 +22,31 @@ languages:
     contentDir: content/pt/
     languageCode: pt-BR
     weight: 10
-    menu:
-      after:
-        - name: "Github"
-          url: "https://github.com/rodrigokrosa"
-          weight: 1
-        - name: "Google Scholar"
-          url: "https://scholar.google.com/citations?hl=pt-BR&user=52E12-MAAAAJ"
-          weight: 2
-        - name: "LinkedIn"
-          url: "https://www.linkedin.com/in/rodrigo-kobashikawa-rosa/"
-          weight: 3
-        - name: "Lattes"
-          url: "https://lattes.cnpq.br/8730687384964267"
-          weight: 4
-        - name: "CV"
-          url: "/cv-pt-br.pdf"
-          weight: 5
+
   en:
     languageName: English
     contentDir: content/en/
     languageCode: en-US
     weight: 20
-    menu:
-      after:
-        - name: "Github"
-          url: "https://github.com/rodrigokrosa"
-          weight: 1
-        - name: "Google Scholar"
-          url: "https://scholar.google.com/citations?hl=pt-BR&user=52E12-MAAAAJ"
-          weight: 2
-        - name: "LinkedIn"
-          url: "https://www.linkedin.com/in/rodrigo-kobashikawa-rosa/"
-          weight: 3
-        - name: "Lattes"
-          url: "https://lattes.cnpq.br/8730687384964267"
-          weight: 4
-        - name: "CV"
-          url: "/cv-en.pdf"
-          weight: 5
   
+menu:
+  after:
+    - name: "Github"
+      url: "https://github.com/rodrigokrosa"
+      weight: 1
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?hl=pt-BR&user=52E12-MAAAAJ"
+      weight: 2
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/rodrigo-kobashikawa-rosa/"
+      weight: 3
+    - name: "Lattes"
+      url: "https://lattes.cnpq.br/8730687384964267"
+      weight: 4
+    - name: "CV"
+      url: "/cv-pt-br.pdf"
+      weight: 5
+
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
