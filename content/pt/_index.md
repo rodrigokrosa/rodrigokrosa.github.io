@@ -84,6 +84,7 @@ XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais-SBrT 20
 
 - **Fault detection for rotating machinery based on vibration data using machine learning**\
 Lucas de Toledo Barreto, <u>Rodrigo Kobashikawa Rosa</u>, Danilo Silva, Danilo Braga\
+XX Encontro Nacional de Inteligência Artificial e Computacional\
 [[link]](https://sol.sbc.org.br/index.php/eniac/article/view/25706)
 
 - **Conversão Texto-Fala para o Português Brasileiro Utilizando Tacotron 2 com Vocoder Griffin-Lim**\
