@@ -6,7 +6,9 @@ BookToC: true
 
 # About me
 
-<img src="en/images/foto-perfil.jpg" style="width:250px; border-radius: 50%; float: right">
+<!-- {{< profile_fig >}} -->
+
+<img src="images/foto-perfil.jpg" style="width:250px; border-radius: 50%; float: right">
 
 <p style="font-size: 22px">
     Data Scientist /<br> 

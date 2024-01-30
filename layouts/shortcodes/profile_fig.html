@@ -1,0 +1,5 @@
+{{ $image := resources.Get "images/foto-perfil.jpg"}}
+
+{{ with $image }}
+    <img src="{{ .RelPermalink }}" style="width:250px; border-radius: 50%; float: right">
+{{ end }}

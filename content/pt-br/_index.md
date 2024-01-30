@@ -6,6 +6,8 @@ BookToC: true
 
 # Sobre mim
 
+<!-- {{< profile_fig >}} -->
+
 <img src="pt-br/images/foto-perfil.jpg" style="width:250px; border-radius: 50%; float: right">
 
 <p style="font-size: 22px">
