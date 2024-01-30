@@ -1,0 +1,4 @@
+{{ $src := .Get "src"}}
+{{ $image := resources.Get $src}}
+
+<img src="{{ $image.RelPermalink }}" style="float: left; margin-right: 20px; width: 50px;">

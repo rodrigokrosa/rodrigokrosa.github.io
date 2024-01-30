@@ -6,9 +6,7 @@ BookToC: true
 
 # About me
 
-{{< profile_fig >}}
-
-<!-- <img src="images/foto-perfil.jpg" style="width:250px; border-radius: 50%; float: right"> -->
+{{< profile-figure src="images/foto-perfil.jpg" >}}
 
 <p style="font-size: 22px">
     Data Scientist /<br> 
@@ -25,7 +23,7 @@ Over the past four years, I have honed my skills in Python programming and machi
 #### November/2021 - February/2024
 
 <figure>
-  <img src="images/gama.jpeg" style="float: left; margin-right: 20px; width: 50px;">
+  {{< experience-logos src="images/gama.jpeg" >}}
   <figcaption>
     <b>Machine Learning and Applications Research Group (GAMA-UFSC)</b><br>
     Machine Learning Researcher<br>
@@ -44,7 +42,7 @@ Over the past four years, I have honed my skills in Python programming and machi
 #### February/2021 - October/2021
 
 <figure>
-  <img src="images/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
+  {{< experience-logos src="images/aquare_la_logo.jpeg" >}}
   <figcaption>
     <b>Aquarela Advanced Analytics</b><br>
     Machine Learning Engineer<br>
@@ -62,7 +60,7 @@ Over the past four years, I have honed my skills in Python programming and machi
 #### February/2020 - February/2021
 
 <figure>
-  <img src="images/aquare_la_logo.jpeg" style="float: left; margin-right: 20px; width: 50px;">
+  {{< experience-logos src="images/aquare_la_logo.jpeg" >}}
   <figcaption>
     <b>Aquarela Advanced Analytics</b><br>
     Machine Learning Engineer Intern<br>
