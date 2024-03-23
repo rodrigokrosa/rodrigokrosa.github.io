@@ -9,18 +9,32 @@ BookToC: true
 {{< profile-figure src="images/foto-perfil.jpg" >}}
 
 <p style="font-size: 22px">
-    Cientista de dados /<br> 
-    Engenheiro de Machine Learning<br>
+    Pesquisador no Instituto SENAI de Inovação /<br> 
+    Cientista de dados<br>
     Mestrando no PPGEEL (UFSC)<br>
 </p>
 
-Oi, aqui é o Rodrigo! Sou um Engenheiro Eletrônico com grande interesse na aplicação de modelos de aprendizado de máquina na indústria. Atualmente estou terminando meu mestrado em aprendizado de máquina aplicado na [UFSC](https://ppgeel.posgrad.ufsc.br/) e estou dedicado a elevar a eficiência industrial através de soluções baseadas em dados. 
+Oi, aqui é o Rodrigo! Sou um Pesquisador em IA no Instituto SENAI de Inovação em Sistemas Embarcados de SC e Engenheiro Eletrônico com grande interesse na aplicação de modelos de aprendizado de máquina na indústria. Atualmente estou terminando meu mestrado em aprendizado de máquina aplicado na [UFSC](https://ppgeel.posgrad.ufsc.br/) e estou dedicado a elevar a eficiência industrial através de soluções baseadas em dados. 
 
 Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Python e em técnicas de aprendizado de máquina. Minha expertise está no desenvolvimento de algoritmos inovadores e implementação de modelos de aprendizado de máquina em aplicações de vida real. Eu prospero no desafio de resolver problemas complexos aproveitando de tecnologias do estado da arte para impulsionar avanços na indústria.
 
 ---
 
 # Experiência
+---
+#### Março/2024 - Presente
+
+<figure>
+  {{< experience-logos src="images/instituto_senai_de_inovacao_logo.jpeg" >}}
+  <figcaption>
+    <b>Instituto SENAI de Inovação</b><br>
+    Pesquisador em Aprendizagem de Máquina<br>
+    <ul>
+        <li>Desenvolvimento de modelos de aprendizagem de máquina em projetos em diversos setores da indústria.</li>
+    </ul>
+  </figcaption>
+</figure>
+
 ---
 #### Novembro/2021 - Fevereiro/2024
 
