@@ -11,12 +11,12 @@ BookToC: true
 <p style="font-size: 22px">
     Pesquisador no Instituto SENAI de Inovação /<br> 
     Cientista de dados<br>
-    Mestrando no PPGEEL (UFSC)<br>
+    Mestre em Engenharia Elétrica<br>
 </p>
 
-Oi, aqui é o Rodrigo! Sou um Pesquisador em IA no Instituto SENAI de Inovação em Sistemas Embarcados de SC e Engenheiro Eletrônico com grande interesse na aplicação de modelos de aprendizado de máquina na indústria. Atualmente estou terminando meu mestrado em aprendizado de máquina aplicado na [UFSC](https://ppgeel.posgrad.ufsc.br/) e estou dedicado a elevar a eficiência industrial através de soluções baseadas em dados. 
+Oi, aqui é o Rodrigo! Sou um Pesquisador em IA no Instituto SENAI de Inovação em Sistemas Embarcados de SC e Engenheiro Eletrônico com grande interesse na aplicação de modelos de aprendizado de máquina na indústria. Tenho um mestrado em Engenharia Elétrica na [UFSC](https://ppgeel.posgrad.ufsc.br/) onde realizei estudos de aprendizado de máquina aplicado na indústria em parceria com uma empresa. Meu principal objetivo como profissional está na elevação da eficiência industrial através de soluções baseadas em dados. 
 
-Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Python e em técnicas de aprendizado de máquina. Minha expertise está no desenvolvimento de algoritmos inovadores e implementação de modelos de aprendizado de máquina em aplicações de vida real. Eu prospero no desafio de resolver problemas complexos aproveitando de tecnologias do estado da arte para impulsionar avanços na indústria.
+Nos últimos 5 anos, venho aprimorando minhas habilidades em programação Python e em técnicas de aprendizado de máquina, porém também venho desenvolvendo competência de gestão de projetos de inovação por meio de liderança técnica dentro de projetos do Instituto SENAI de Inovação. Minha expertise está no desenvolvimento de algoritmos inovadores e implementação de modelos de aprendizado de máquina em aplicações de vida real. Eu prospero no desafio de resolver problemas complexos aproveitando de tecnologias do estado da arte para impulsionar avanços na indústria.
 
 ---
 
@@ -30,7 +30,11 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
     <b>Instituto SENAI de Inovação</b><br>
     Pesquisador em Aprendizagem de Máquina<br>
     <ul>
-        <li>Desenvolvimento de modelos de aprendizagem de máquina em projetos em diversos setores da indústria.</li>
+        <li>Liderança como Responsável Técnico de projetos de inovação com a indústria;</li>
+        <li>Desenvolvimento de relatórios técnicos de projetos e elaboração de artigos para divulgação científica;</li>
+        <li>Elaborei PoCs para consulta de processos internos utilizando Agentes de IA com LLMs;</li>
+        <li>Criei pipelines de extração, transformação e carregamento (ETL) e pipelines de orquestramento de modelos de ML;</li>
+        <li>Rastreamento de experimentos, monitoramento de modelos, AutoML com ferramentas de MLOps.</li>
     </ul>
   </figcaption>
 </figure>
@@ -91,10 +95,20 @@ Nos últimos 4 anos, venho aprimorando minhas habilidades em programação Pytho
 # Artigos
 ---
 
+- **Benchmarking deep learning models for bearing fault diagnosis using the CWRU dataset: A multi-label approach**\
+<u>Rodrigo Kobashikawa Rosa</u>, Danilo Braga, Danilo Silva\
+Arxiv pre-print\
+[[link]](https://arxiv.org/pdf/2407.14625)
+
 - **Diagnóstico de Falhas em Rolamentos usando Redes Convolucionais: Otimização da Representação de Sinais e uma Nova Metodologia de Avaliação**\
 <u>Rodrigo Kobashikawa Rosa</u>, Vicente Knobel Borges, Danilo de Souza Braga, Danilo Silva\
 XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais-SBrT 2023\
 [[link]](https://biblioteca.sbrt.org.br/articlefile/4443.pdf)
+
+- **Bearing fault diagnosis using machine learning and a novel set of fault-related spectral features**\
+João Paulo Vieira, <u>Rodrigo Kobashikawa Rosa</u>, Victor Afonso Bauler, Danilo Braga, Danilo Silva\
+XXI Encontro Nacional de Inteligência Artificial e Computacional\
+[[link]](https://sol.sbc.org.br/index.php/eniac/article/view/33787)
 
 - **Fault detection for rotating machinery based on vibration data using machine learning**\
 Lucas de Toledo Barreto, <u>Rodrigo Kobashikawa Rosa</u>, Danilo Silva, Danilo Braga\
